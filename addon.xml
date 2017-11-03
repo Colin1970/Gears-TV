@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.GEARS-IPTV" name="[COLOR yellow]GEARS-IPTV Repository[/COLOR]" version="1.4" provider-name="">
+    <extension point="xbmc.addon.repository" name="GEARS-IPTV Repository">
+        <info compressed="false">http://mayfairguides.net/resellers/GEARS-IPTV/git/addons.xml</info>
+        <checksum>http://mayfairguides.net/resellers/GEARS-IPTV/git/addons.xml.md5</checksum>
+        <datadir zip="true">http://mayfairguides.net/resellers/GEARS-IPTV/git/zips/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>GEARS-IPTV Repository</summary>
+        <description>The GEARS-IPTV repository.</description>
+        <platform>all</platform>
+    </extension>
+</addon>
